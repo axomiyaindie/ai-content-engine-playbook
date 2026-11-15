@@ -19,3 +19,6 @@ build/
 Thumbs.db
 .vscode/
 .idea/
+
+# keep the env template tracked
+!.env.example
