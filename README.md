@@ -1,7 +1,9 @@
 ﻿# AI Content Engine Playbook
+
 <p align="center">
-  <img src="assets/brand/logo.svg" alt="AI Content Engine Playbook logo" width="160">
+  <img src="assets/brand/icon.svg" alt="AI Content Engine Playbook logo" width="160">
 </p>
+
 An open-source playbook for **generating content with AI** — prompts, skills,
 tools, automation, and end-to-end pipelines. Clone it, adapt it, ship content.
 
