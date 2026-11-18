@@ -35,6 +35,6 @@ content pipeline** instead of ad-hoc ChatGPT sessions.
 
 See `CONTRIBUTING.md`. New prompts, skills, and tool integrations are welcome.
 
-## License
+## License 
 
 MIT — see `LICENSE`.
